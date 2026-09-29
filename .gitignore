@@ -1,0 +1,6 @@
+# Ignore all root-level files; only sub-folders (and their contents) are tracked
+/*
+!/*/
+!/.gitignore
+!/.github/
+.DS_Store
